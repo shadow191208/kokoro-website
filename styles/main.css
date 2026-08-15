@@ -195,17 +195,17 @@ h2 {
 }
 
 .brand-mark {
-  display: grid;
+  display: block;
   width: 32px;
   height: 32px;
-  place-items: center;
-  color: var(--paper);
-  background: var(--ink);
   border-radius: 9px;
-  font-family: var(--serif);
-  font-size: 1.18rem;
-  font-weight: 400;
-  letter-spacing: 0;
+  overflow: hidden;
+}
+
+.brand-mark img {
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 
 .nav-links {
@@ -1434,9 +1434,15 @@ section[id] {
 }
 
 .download-symbol {
+  width: 82px;
+  height: 82px;
   margin-bottom: 24px;
-  font-family: var(--serif);
-  font-size: 4.5rem;
+}
+
+.download-symbol img {
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 
 .download-section .eyebrow,
