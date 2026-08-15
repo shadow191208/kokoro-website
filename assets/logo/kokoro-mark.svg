@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
   <title id="title">Logo こころ</title>
-  <desc id="desc">Một trái tim nét mềm trong khung vuông bo góc</desc>
-  <rect x="1" y="1" width="62" height="62" rx="17" fill="#292725"/>
-  <rect x="1.75" y="1.75" width="60.5" height="60.5" rx="16.25" fill="none" stroke="#4a4743" stroke-width="1.5"/>
+  <desc id="desc">Một trái tim màu mực trên nền xanh sage bo góc</desc>
+  <rect x="1" y="1" width="62" height="62" rx="17" fill="#dce3d7"/>
+  <rect x="1.75" y="1.75" width="60.5" height="60.5" rx="16.25" fill="none" stroke="#87967d" stroke-width="1.5"/>
   <path
     d="M32 48.25C19.52 40.48 13.5 33.55 13.5 24.63C13.5 17.88 18.12 13.25 24.08 13.25C27.72 13.25 30.39 15.12 32 17.73C33.61 15.12 36.28 13.25 39.92 13.25C45.88 13.25 50.5 17.88 50.5 24.63C50.5 33.55 44.48 40.48 32 48.25Z"
     fill="none"
-    stroke="#f7f4ee"
+    stroke="#292725"
     stroke-width="3.2"
     stroke-linecap="round"
     stroke-linejoin="round"
   />
-  <circle cx="32" cy="27" r="2.25" fill="#9baa92"/>
+  <circle cx="32" cy="27" r="2.25" fill="#b48a72"/>
 </svg>
