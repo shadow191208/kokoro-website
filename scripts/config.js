@@ -4,5 +4,5 @@
  */
 window.KOKORO_CONFIG = Object.freeze({
   APK_URL:
-    "https://expo.dev/artifacts/eas/-xbuwOQcpUbGZxu_1Ld7tt-2FCEc5HqxX0aTx8n8aHI.apk",
+    "https://expo.dev/artifacts/eas/sbnxtCyvq0fxsC7oRftg0KXTA25aoBUgcD4a7-VZ6tg.apk",
 });
